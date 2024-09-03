@@ -1,5 +1,4 @@
-#Hi there 👋 I'm ROMAN.- 
-Grafikdesigner/Mediengestalter
+Hi there 👋 I'm ROMAN / Grafikdesigner/Mediengestalter
 
 <#I am an illustrator and graphic designer. 
 ##My special interest and talent lies in
