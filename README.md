@@ -3,8 +3,7 @@ Hi there 👋 I'm ROMAN / Grafikdesigner/Mediengestalter
 # I am an illustrator and graphic designer.
 
 ## My special interest and talent lies in
-##appealing compositions##
-
+## appealing compositions
 ### in which my illustrative skills,
 my sense of color and my understanding of space
 #### are shown.
@@ -33,9 +32,9 @@ Meine Beziehung zur Welt der Textilien beginnt in... *
 
 
 
-[Schau mal hier einige meiner Arbeiten](https://ph-files.imgix.net/82dd8414-603b-4e82-8f82-5349fa3f3bfd.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=476&h=720&fit=max&dpr=1](https://www.behance.net/RomanVelez)
+[Schau mal hier einige meiner Arbeiten](https://www.behance.net/RomanVelez)
 
-*[Textile]* (https://www.behance.net/gallery/136059099/Tropik-HOME-DECO?tracking_source=project_owner_other_projects)
+[Textile](https://www.behance.net/gallery/136059099/Tropik-HOME-DECO?tracking_source=project_owner_other_projects)
 
 ![Aquí otra foto](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/26b92c53772125.5940991414446.png)
 
