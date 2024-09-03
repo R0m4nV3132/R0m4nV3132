@@ -37,6 +37,8 @@ Meine Beziehung zur Welt der Textilien beginnt in... *
 
 *[Textile]* (https://www.behance.net/gallery/136059099/Tropik-HOME-DECO?tracking_source=project_owner_other_projects)
 
+![Aquí otra foto](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/26b92c53772125.5940991414446.png)
+
 
 **R0m4nV3132/R0m4nV3132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
