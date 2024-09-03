@@ -1,11 +1,13 @@
 Hi there 👋 I'm ROMAN / Grafikdesigner/Mediengestalter
 
-<#I am an illustrator and graphic designer. 
-##My special interest and talent lies in
-appealing compositions 
+#I am an illustrator and graphic designer.# 
+
+##My special interest and talent lies in##
+##appealing compositions##
+
 ###in which my illustrative skills,
-my sense of color and my understanding of space
-####are shown.
+my sense of color and my understanding of space###
+####are shown.####
 
 - Graphic Design
 - Illustration
