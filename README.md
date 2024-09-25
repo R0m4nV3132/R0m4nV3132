@@ -8,12 +8,9 @@ Hi there 👋 I'm ROMAN / Grafikdesigner/Mediengestalter
 my sense of color and my understanding of space
 #### are shown.
 
-- Graphic Design
-- Illustration
-- thing 3
 
 *Ich bin Grafikdesigner und habe die Ausbildung Mediengestalter
-Digital und Print bei der IHK Potsdam, ich habe Illustrationen für
+Digital und Print, ich habe Illustrationen für
 verschiedene Zwecke wie Partyartikel und Metallballons sowie
 Illustrationen für Kinder- und Schulbücher veröffentlicht worden
 sind, meine Illustrationen sind in Lokalzeitungen in meinem Land
