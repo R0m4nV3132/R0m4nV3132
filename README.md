@@ -19,10 +19,14 @@ Kunststoffmaterialien sowie andere Kundendiensttätigkeiten für
 Unternehmen wie LEGO und die Deutsche Bahn gearbeitet.
 Meine Beziehung zur Welt der Textilien beginnt in... *
 
+-Grafikdesign
+-Illustration
+-Still learning
+
 **"De lo único que me arrepiento es de lo que no he hecho"**
 
 > This is a quote
->jhgfejkhfireuhwuergfkuezgfriwekuzgfri
+<i>jhgfejkhfireuhwuergfkuezgfriwekuzgfri<i>
 
 
 ```code writing```
